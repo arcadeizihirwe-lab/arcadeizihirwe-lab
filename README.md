@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm [Arcade]
 
 Welcome to my GitHub profile!
 
