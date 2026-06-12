@@ -7,8 +7,7 @@ Welcome to my GitHub profile!
 * 💻 I’m a passionate developer interested in programing and software development
 * 🌱 Currently learning: computer Engineering
 * 📫 How to reach me:Email: arcadeizihirwe@gmail.com
-                     instagram:
-                     tweeter:
+                     
                       
 * ⚡ Fun fact: 
 
